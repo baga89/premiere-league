@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/premiere-league/static/css/main.923c50e5.chunk.css",
+    "main.js": "/premiere-league/static/js/main.c9233242.chunk.js",
+    "main.js.map": "/premiere-league/static/js/main.c9233242.chunk.js.map",
+    "runtime-main.js": "/premiere-league/static/js/runtime-main.a1a64316.js",
+    "runtime-main.js.map": "/premiere-league/static/js/runtime-main.a1a64316.js.map",
+    "static/js/2.99dee35d.chunk.js": "/premiere-league/static/js/2.99dee35d.chunk.js",
+    "static/js/2.99dee35d.chunk.js.map": "/premiere-league/static/js/2.99dee35d.chunk.js.map",
+    "index.html": "/premiere-league/index.html",
+    "precache-manifest.8e6c661da60a743eee2545dba1e6452d.js": "/premiere-league/precache-manifest.8e6c661da60a743eee2545dba1e6452d.js",
+    "service-worker.js": "/premiere-league/service-worker.js",
+    "static/css/main.923c50e5.chunk.css.map": "/premiere-league/static/css/main.923c50e5.chunk.css.map",
+    "static/js/2.99dee35d.chunk.js.LICENSE.txt": "/premiere-league/static/js/2.99dee35d.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/premiere-league/static/media/logo.c092a7e7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1a64316.js",
+    "static/js/2.99dee35d.chunk.js",
+    "static/css/main.923c50e5.chunk.css",
+    "static/js/main.c9233242.chunk.js"
+  ]
+}
